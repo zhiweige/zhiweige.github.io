@@ -71,7 +71,7 @@ author:
     imageLink: /images/header2.jpg
     simpleIntro: Hi world~
     detailIntro:
-      <p>This blog is used to organise interesting papers, projects, websites, blogs and my reading/study notes.</p>
+      <p>This blog is imported from handong1587.</p>
       <p>Feel free to send PRs or open issues to help maintain this blog&#58; https://github.com/zhiweige/zhiweige.github.io</p>
       <p></p>
 
@@ -84,7 +84,7 @@ follow:
   - class: icon-facebook
     url: https://www.facebook.com/
   - class: icon-github-alt
-    url: https://github.com/handong1587/
+    url: https://github.com/zhiweige/
   - class: icon-twitter
     url: https://www.twitter.com/
   - class: icon-google-plus
